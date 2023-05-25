@@ -6,7 +6,6 @@
    - Java for Object Oriented Programming
    
 - 🌱 I’m currently delving into machine learning concepts like natural language processing. 
-- 📫 How to reach me gsenthil@uwaterloo.ca 
 - Check out my portfolio website: https://geersenthil.github.io/ 
 
 <!---
