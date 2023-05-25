@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Geerthika Senthil 
-- 👀 I’m interested in data science and machine learning. I gained practical experience in both areas while working at Sun Life, Ministry of Attorney General and PepsiCo. My Preferred Languages are:
+- 👀 I’m interested in data science and machine learning. I gained practical experience in both areas while working at Munich Re, Sun Life, Ministry of Attorney General and PepsiCo. My Preferred Languages are:
    - Python, SQL and R for Data Science & Analysis
    - Ruby on Rails for Backend Development
    - React, Node.js for Frontend Development 
