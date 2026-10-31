@@ -1,14 +1,9 @@
-- 👋 Hi, I’m Geerthika Senthil 
-- 👀 I’m interested in data science and machine learning. I gained practical experience in both areas while working at Munich Re, Sun Life, Ministry of Attorney General and PepsiCo. My Preferred Languages are:
-   - Python, SQL and R for Data Science & Analysis
-   - Ruby on Rails for Backend Development
-   - React, Node.js for Frontend Development 
-   - Java for Object Oriented Programming
-   
-- 🌱 I’m currently delving into machine learning concepts like natural language processing. 
-- Check out my portfolio website: https://geersenthil.github.io/ 
+# Hi, I'm Geerthika!
 
-<!---
-geersenthil/geersenthil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software engineer in Toronto. I build AI systems and the backend services behind them.
+
+**I mostly work with:** Python, FastAPI, SQL, Kubernetes, Docker, Terraform
+
+**I'm interested in:** agentic workflows, language models in production, and reliable backend systems
+
+[Portfolio](https://geersenthil.github.io) · [LinkedIn](https://www.linkedin.com/in/Geerthika-Senthil/)
